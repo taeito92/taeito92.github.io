@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
-PIZZA
+If you only do what you can do,
+you will never be more tham you now.
 
 You can use the [editor on GitHub](https://github.com/taeito92/taeito92.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
